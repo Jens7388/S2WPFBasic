@@ -17,7 +17,7 @@
                    Height="171"
                    Width="170"
                    RenderTransformOrigin="0.5,0.5"
-                   Foreground="#FFFC1717"
+                   Foreground="Chocolate"
                    FontSize="72">
             <TextBlock.RenderTransform>
                 <TransformGroup>
